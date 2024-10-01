@@ -1,0 +1,11 @@
+text,sentiment
+"I love this product!",positive
+"This is the worst experience ever.",negative
+"I'm not sure how I feel about this.",neutral
+"Absolutely fantastic service!",positive
+"I hate waiting in long lines.",negative
+"Okay, not bad.",neutral
+"The food was delicious.",positive
+"It was terrible.",negative
+"Could be better.",neutral
+"Best purchase I've made!",positive
